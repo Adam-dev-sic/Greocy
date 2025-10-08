@@ -1,0 +1,36 @@
+{
+  "public/assets/Dark-green-HD-desktop-background-featuring-a-clean-flat-surface-with-a-slight-sheen-emphasizing-simplicity-and-elegance.jpg": {
+    "file": "assets/Dark-green-HD-desktop-background-featuring-a-clean-flat-surface-with-a-slight-sheen-emphasizing-simplicity-and-elegance-DIpoCwqu.jpg",
+    "src": "public/assets/Dark-green-HD-desktop-background-featuring-a-clean-flat-surface-with-a-slight-sheen-emphasizing-simplicity-and-elegance.jpg"
+  },
+  "public/assets/YAULDFAAXt13xTx5.jpeg": {
+    "file": "assets/YAULDFAAXt13xTx5-Dp8VB0q5.jpeg",
+    "src": "public/assets/YAULDFAAXt13xTx5.jpeg"
+  },
+  "public/assets/abstrakciya-figury-geometriya-6475.jpg": {
+    "file": "assets/abstrakciya-figury-geometriya-6475-LBdU0qGY.jpg",
+    "src": "public/assets/abstrakciya-figury-geometriya-6475.jpg"
+  },
+  "public/assets/healthy-diet-spring-food-background-assortment-fresh-raw-organic-green-vegetables-broccoli-cauliflower-zucchini-cucumbers-asparagus-spinach-avocado-cabbage-set-dark-green-background_136595-18740.avif": {
+    "file": "assets/healthy-diet-spring-food-background-assortment-fresh-raw-organic-green-vegetables-broccoli-cauliflower-zucchini-cucumbers-asparagus-spinach-avocado-cabbage-set-dark-green-background_136595-18740-BjCglf4_.avif",
+    "src": "public/assets/healthy-diet-spring-food-background-assortment-fresh-raw-organic-green-vegetables-broccoli-cauliflower-zucchini-cucumbers-asparagus-spinach-avocado-cabbage-set-dark-green-background_136595-18740.avif"
+  },
+  "public/assets/red.jpg": {
+    "file": "assets/red-aIhAFuP5.jpg",
+    "src": "public/assets/red.jpg"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-C4FaCJ2t.css",
+    "src": "resources/css/app.css",
+    "isEntry": true,
+    "names": [
+      "app.css"
+    ]
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-Bj43h_rG.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  }
+}
